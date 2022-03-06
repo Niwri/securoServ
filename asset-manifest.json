@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/securoServ/static/css/main.dc37d333.css",
+    "main.js": "/securoServ/static/js/main.9bd074d4.js",
+    "static/media/weeklyPostGraph.png": "/securoServ/static/media/weeklyPostGraph.30d9feb91f9964c4cddc.png",
+    "static/media/icon.png": "/securoServ/static/media/icon.5442904a41df6a6cbcdf.png",
+    "index.html": "/securoServ/index.html",
+    "main.dc37d333.css.map": "/securoServ/static/css/main.dc37d333.css.map",
+    "main.9bd074d4.js.map": "/securoServ/static/js/main.9bd074d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc37d333.css",
+    "static/js/main.9bd074d4.js"
+  ]
+}
